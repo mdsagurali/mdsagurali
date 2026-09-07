@@ -15,8 +15,7 @@ Building **REST APIs, backend systems, and real-world applications** with Python
 </a>
 <a href="https://www.linkedin.com/in/mdsagurali/">
   <img src="https://img.shields.io/badge/LinkedIn-Md%20Sagur%20Ali-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="mailto:mdsagurali.bd@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdsagurali.bd@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
