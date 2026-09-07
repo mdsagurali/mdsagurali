@@ -253,16 +253,37 @@ My goal is not just to learn frameworks, but to understand the engineering princ
 <div align="center">
 
 <a href="https://github.com/mdsagurali">
-<img src="https://github-readme-stats.vercel.app/api?username=mdsagurali&show_icons=true&hide_border=true&rank_icon=github" height="170">
+  <img src="https://img.shields.io/github/followers/mdsagurali?label=Followers&style=for-the-badge" alt="GitHub Followers">
+</a>
+
+<a href="https://github.com/mdsagurali?tab=repositories">
+  <img src="https://img.shields.io/github/stars/mdsagurali?label=Repository%20Stars&style=for-the-badge" alt="Repository Stars">
 </a>
 
 <a href="https://github.com/mdsagurali">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsagurali&layout=compact&hide_border=true" height="170">
+  <img src="https://img.shields.io/github/last-commit/mdsagurali/mdsagurali?label=Latest%20Activity&style=for-the-badge" alt="Latest Activity">
 </a>
 
 </div>
 
----
+<br>
+
+I use GitHub to:
+
+* Build and maintain practical backend projects
+* Practice Python, Django, DRF and FastAPI
+* Explore databases, APIs and backend architecture
+* Document my learning and development journey
+* Experiment with Docker, Linux and deployment workflows
+
+<div align="center">
+
+<a href="https://github.com/mdsagurali?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View All Repositories">
+</a>
+
+</div>
+
 
 ## Connect With Me
 
