@@ -1,317 +1,176 @@
-<div align="center">
-
 # Md Sagur Ali
 
 ### Python Backend Developer
 
-**Django • Django REST Framework • FastAPI • PostgreSQL**
+**Python · Django · Django REST Framework · FastAPI · PostgreSQL**
 
-Building **REST APIs, backend systems, and real-world applications** with Python.
+I build backend applications and REST APIs with a focus on clean code, database design, and practical problem-solving.
 
-<br>
-
-<a href="https://github.com/mdsagurali">
-  <img src="https://img.shields.io/badge/GitHub-mdsagurali-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/mdsagurali/">
-  <img src="https://img.shields.io/badge/LinkedIn-Md%20Sagur%20Ali-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdsagurali.bd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
+[GitHub](https://github.com/mdsagurali) · [LinkedIn](https://www.linkedin.com/in/mdsagurali/) · [Portfolio](https://mdsagurali.github.io/) · [Email](mailto:mdsagurali.bd@gmail.com)
 
 ---
 
 ## About Me
 
-I’m a **Python Backend Developer** focused on designing and building practical backend applications and REST APIs.
+I'm a Python Backend Developer focused on building practical web applications and reliable backend systems.
 
-My main development stack includes **Python, Django, Django REST Framework, FastAPI, PostgreSQL, SQL, and Django ORM**.
+I work primarily with Python and backend frameworks such as Django, Django REST Framework, and FastAPI. I enjoy designing REST APIs, working with relational databases, implementing authentication, and understanding how backend systems work behind the scenes.
 
-I’m particularly interested in:
+My development interests include:
 
-* Backend architecture and clean code
-* REST API development
-* Authentication and authorization
-* Database design and optimization
-* API security and integration
-* Background task processing
-* Docker and Linux-based development
-* Deployment and production environments
+- Backend application development
+- REST API design and development
+- Authentication and authorization
+- Database design and ORM
+- API integration and security
+- Testing and debugging
+- Application deployment
 
-My long-term direction is to grow from **Backend Engineering → DevOps Engineering** by developing strong foundations in Linux, networking, deployment, and infrastructure.
-
----
-
-## Tech Stack
-
-### Languages & Backend
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-</p>
-
-### Database & API
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square">
-<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</p>
+I'm continuously improving my engineering skills through hands-on projects and practical development.
 
 ---
 
-## Featured Projects
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+**Backend Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square" alt="Django REST Framework"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+**Databases & API Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="OpenAPI"/>
+</p>
+
+**Tools & Development Environment**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## Selected Projects
 
 ### NEXIS LOGIX
-
 **Inventory Management System**
 
-A Django-based inventory management application designed to handle products, inventory operations, and database-driven workflows.
+A Django-based inventory management application focused on product management, inventory operations, and database-driven workflows.
 
-**Stack**
+**Tech:** Python · Django · PostgreSQL · Django ORM
 
-`Django` `PostgreSQL` `Django ORM` `HTML/CSS`
+[View Repository →](https://github.com/mdsagurali/nexis-logix)
 
-<br>
-
-<a href="https://github.com/mdsagurali/nexis-logix">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### TaskForge AI
-
 **AI-Powered Task Assistant**
 
-An AI-powered productivity application that uses AI integration to help break down tasks and improve productivity.
+A productivity application that uses AI to break down complex tasks into smaller, manageable steps.
 
-**Stack**
+**Tech:** Python · Flask · Groq API · Llama 3.3
 
-`Python` `Flask` `Groq Llama 3.3`
+[View Repository →](https://github.com/mdsagurali/TaskForge-AI)
 
-<br>
-
-<a href="https://github.com/mdsagurali/TaskForge-AI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### Student Management System
+**Backend Application**
 
-**FastAPI Backend Application**
+A student management application built with FastAPI, demonstrating REST API development and interactive API documentation.
 
-A backend-focused student management system built around REST API development with interactive API documentation.
+**Tech:** Python · FastAPI · REST API · Swagger
 
-**Stack**
-
-`Python` `FastAPI` `REST API` `Swagger`
-
-<br>
-
-<a href="https://github.com/mdsagurali/student-management-system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### CLI User Management
-
-**Python CLI Application**
-
-A command-line application demonstrating object-oriented programming, CRUD operations, and JSON-based data handling.
-
-**Stack**
-
-`Python` `OOP` `CRUD` `JSON`
-
-<br>
-
-<a href="https://github.com/mdsagurali/cli-user-management-system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-</tr>
-</table>
+[View Repository →](https://github.com/mdsagurali/student-management-system)
 
 ---
 
-## More Projects
+### CLI User Management System
+**Command-Line Application**
 
-| Project                       | Focus                         | Technologies                 |
-| ----------------------------- | ----------------------------- | ---------------------------- |
-| **Library Management System** | CRUD & Data Management        | Python • OOP • JSON          |
-| **Vaultora**                  | Secure Digital Document Vault | Django • Backend Development |
+A Python-based command-line application demonstrating object-oriented programming, CRUD operations, and JSON data handling.
 
----
+**Tech:** Python · OOP · CRUD · JSON
 
-## What I'm Currently Learning
-
-<table>
-<tr>
-<td>
-
-**Backend Engineering**
-
-* Advanced Django & DRF
-* JWT Authentication
-* API Security
-* Database Design
-* Advanced PostgreSQL
-
-</td>
-<td>
-
-**Production & DevOps**
-
-* Redis & Celery
-* Docker & Docker Compose
-* Pytest
-* Linux Server Management
-* Deployment & Production Workflows
-
-</td>
-</tr>
-</table>
+[View Repository →](https://github.com/mdsagurali/cli-user-management-system)
 
 ---
 
-## Development Roadmap
+## Additional Projects
 
-```text
-Python
-   │
-   ▼
-Django / FastAPI
-   │
-   ▼
-REST APIs & Authentication
-   │
-   ▼
-PostgreSQL & Database Design
-   │
-   ▼
-Testing & API Security
-   │
-   ▼
-Docker • Redis • Celery
-   │
-   ▼
-Linux • Deployment
-   │
-   ▼
-DevOps
-```
+| Project | Description | Repository |
+|:---|:---|:---|
+| Vaultora | Digital document management application | [View](https://github.com/mdsagurali/vaultora) |
+| Library Management System | Library operations and data management | [View](https://github.com/mdsagurali/library_management_system) |
+| TaskForge Django | Django-based task management application | [View](https://github.com/mdsagurali/taskforge-django) |
 
 ---
 
-## Development Philosophy
+## Currently Learning
 
-> Build it. Break it. Understand it. Improve it.
+I'm currently strengthening my backend development skills and exploring production-level tools and workflows.
 
-I believe the best way to become a better developer is through **consistent practice, real projects, debugging, and understanding how systems work under the hood.**
-
-My goal is not just to learn frameworks, but to understand the engineering principles behind reliable and maintainable backend systems.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/mdsagurali">
-  <img src="https://img.shields.io/github/followers/mdsagurali?label=Followers&style=for-the-badge" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/mdsagurali?tab=repositories">
-  <img src="https://img.shields.io/github/stars/mdsagurali?label=Repository%20Stars&style=for-the-badge" alt="Repository Stars">
-</a>
-
-<a href="https://github.com/mdsagurali">
-  <img src="https://img.shields.io/github/last-commit/mdsagurali/mdsagurali?label=Latest%20Activity&style=for-the-badge" alt="Latest Activity">
-</a>
-
-</div>
-
-<br>
-
-I use GitHub to:
-
-* Build and maintain practical backend projects
-* Practice Python, Django, DRF and FastAPI
-* Explore databases, APIs and backend architecture
-* Document my learning and development journey
-* Experiment with Docker, Linux and deployment workflows
-
-<div align="center">
-
-<a href="https://github.com/mdsagurali?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View All Repositories">
-</a>
-
-</div>
-
-
-## Connect With Me
-
-<div align="center">
-
-**Open to learning, collaboration, and backend development opportunities.**
-
-<br>
-
-<a href="https://github.com/mdsagurali">
-<img src="https://img.shields.io/badge/GitHub-mdsagurali-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/mdsagurali/">
-<img src="https://img.shields.io/badge/LinkedIn-Md%20Sagur%20Ali-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:mdsagurali.bd@gmail.com">
-<img src="https://img.shields.io/badge/Email-mdsagurali.bd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
+- Advanced Django and Django REST Framework
+- PostgreSQL and database optimization
+- API authentication, permissions, and security
+- Automated testing with Pytest
+- Docker and Docker Compose
+- Redis and Celery
+- Linux server administration
+- Deployment and production environments
 
 ---
 
-<div align="center">
+## Engineering Approach
 
-### Thanks for visiting my profile.
+> Understand the problem. Build the solution. Test it. Improve it.
 
-**Python • Django • REST APIs • PostgreSQL • Linux**
+I believe good backend development goes beyond making an application work. It involves writing maintainable code, designing reliable data models, handling errors properly, and understanding the systems behind an application.
 
-</div>
+I focus on learning through implementation, debugging, and continuous improvement.
+
+---
+
+## GitHub
+
+[![GitHub Followers](https://img.shields.io/github/followers/mdsagurali?style=flat-square&label=Followers)](https://github.com/mdsagurali?tab=followers)
+[![Repositories](https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=flat-square&logo=github)](https://github.com/mdsagurali?tab=repositories)
+
+I use GitHub to develop projects, experiment with backend technologies, document my work, and continuously improve my programming skills.
+
+---
+
+## Let's Connect
+
+I'm open to connecting with developers, collaborating on projects, and exploring Junior Python Backend Developer opportunities.
+
+- **GitHub:** [github.com/mdsagurali](https://github.com/mdsagurali)
+- **LinkedIn:** [linkedin.com/in/mdsagurali](https://www.linkedin.com/in/mdsagurali/)
+- **Portfolio:** [mdsagurali.github.io](https://mdsagurali.github.io/)
+- **Email:** [mdsagurali.bd@gmail.com](mailto:mdsagurali.bd@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Python · Django · REST APIs · PostgreSQL · Backend Engineering</sub>
+</p>
